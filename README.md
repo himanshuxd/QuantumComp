@@ -1,5 +1,6 @@
 # QuantumComp
-Quantum Program example from ibm-q : qx-experience
+## Quantum Program example from ibm-q : qx-experience
+
 A public use Quantum Computer !
 
 Run the program after setting up a local environment after adding qiskit through : 
